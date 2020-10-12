@@ -1,6 +1,4 @@
-// HW 6
-// Sorts. java
-// Both Problems
+
 package com.maxim;
 
 /* Contains several methods for sorting lists using iterators */
