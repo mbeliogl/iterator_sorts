@@ -18,7 +18,7 @@ The program takes a list of integers as command-line arguments and performs the 
 
 1. Download the files into a directory 
 
-2. Run: _Java Sorts <list to sort>_ 
+2. Run: _Java Sorts_ <list to sort> 
 
    - The <list to sort>  should be a list of integers separated by a blank space (' ')
 
